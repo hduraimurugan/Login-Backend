@@ -88,7 +88,7 @@ https://login-backend-2aaw.onrender.com/api/auth
 **Request Body:**
 ```json
 {
-  "emailToken": "verificationToken"
+  "code": "verificationCode"
 }
 ```
 
