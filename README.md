@@ -1,6 +1,4 @@
 
-Here's a sample README documentation for your authentication API:
-
 ---
 
 # Authentication API Documentation
