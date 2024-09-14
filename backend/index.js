@@ -17,6 +17,7 @@ const __dirname = path.resolve();
 // Array of allowed origins
 const allowedOrigins = [
   "https://login-frontend-iota.vercel.app", 
+  "https://login-url-shortener-fe.vercel.app",
   "http://localhost:5173" // Add your additional URL here
 ];
 
